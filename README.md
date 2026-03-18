@@ -2,7 +2,7 @@
 
 A fast-paced 2D side-scrolling shooter where you pilot a flying tram through chaos.
 
-**2nd Place – Game Jam Project**  
+**2nd Place – Internal PJAIT Game Jam Project**  
 Developed in just **14 hours**
 
 ---
